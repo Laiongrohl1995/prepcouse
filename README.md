@@ -1,2 +1,1 @@
-# prepcouse
-repositorio de prueba del modulo 2 de henrry 
+prueba de como crear un repositorio y clonarlo desde github a mi computadora.
